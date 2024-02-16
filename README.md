@@ -24,7 +24,7 @@ shot_distribution.py: contains the answers for the problem stated above. My outp
 ![results](...)
 basketball_shot_chart.ipynb: contains a scatter plot made using matplotlib that plots the 'x' and 'y' coordinates of missed and made shots respectively. 
 The dimensions were made to the standard of court_diagram and online rescource both of which can be seen below.
-![court pdf](....)
+![court pdf](basketball-NBA-court-dimensions-diagram.pdf)
 ![court diagram](court_diagram.jpg)
 
 My shot charts for Team A and Team B respectively can be seen below: 
