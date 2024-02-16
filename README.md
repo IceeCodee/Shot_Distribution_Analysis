@@ -31,5 +31,7 @@ The dimensions were made to the standard of court_diagram and online rescource b
 <br>
 
 My shot charts for Team A and Team B respectively can be seen below: 
-![resultA](...)
-![resultB](...)
+<br>
+![resultA](TeamA.png)
+<br>
+![resultB](TeamB.png)
