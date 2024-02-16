@@ -26,6 +26,7 @@ basketball_shot_chart.ipynb: contains a scatter plot made using matplotlib that 
 The dimensions were made to the standard of court_diagram and online rescource both of which can be seen below.
 <br>
 ![court pdf](basketball-NBA-court-dimensions-diagram.pdf)
+![](basketball-NBA-court-dimensions-diagram.pdf)
 <br>
 ![court diagram](court_diagram.jpg)
 <br>
