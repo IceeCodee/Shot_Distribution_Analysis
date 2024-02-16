@@ -18,6 +18,6 @@ points (note the definition of “Corner” 3 is not determined by the “break�
 Determine the shot zones (2PT, NC3 or C3) and calculate for each team the:
 • Shot Distribution: the percentage of team shots attempted within a zone
 • eFG%: the effective field goal percentage of team shots within a zone (note the formula fo eFG = (FGM +(0.5+3PM))/FGA
-<br>Deliverables:
+<br><br>Deliverables:
 shot_distribution.py: contains the answers for the problem stated above.
 basketball_shot_chart.ipynb: contains a scatter plot made using matplotlib that plots the 'x' and 'y' coordinates of missed and made shots respectively. 
