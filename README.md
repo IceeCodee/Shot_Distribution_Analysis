@@ -21,12 +21,11 @@ Determine the shot zones (2PT, NC3 or C3) and calculate for each team the:
 
 Deliverables:
 shot_distribution.py: contains the answers for the problem stated above. My output is below:
-![results](...)
+![results](results.png)
 basketball_shot_chart.ipynb: contains a scatter plot made using matplotlib that plots the 'x' and 'y' coordinates of missed and made shots respectively. 
 The dimensions were made to the standard of court_diagram and online rescource both of which can be seen below.
 <br>
-![court pdf](basketball-NBA-court-dimensions-diagram.pdf)
-![](basketball-NBA-court-dimensions-diagram.pdf)
+![court pdf](nba_court_dimensions.png)
 <br>
 ![court diagram](court_diagram.jpg)
 <br>
